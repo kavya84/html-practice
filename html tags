@@ -22,3 +22,5 @@ href attribute specifies the url of the page the link goes to
 src attribute - specifies the path to the image to be displayed 
 style attribute - used to add styles to an element such as color, font, size etc.
 lang attribute - you should always include the lang attribute inside the <html> tag , to declare the language of the webpage.
+title attribute - defines some extra information about an element 
+The value of the title attribute will be displayed as a tooltip when you mouse over the element.
