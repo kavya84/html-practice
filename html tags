@@ -8,3 +8,4 @@ It must only appear once at the top of the page (before any HTML tags).
 <p>element defines a paragraph
 
 Html element is everything from the start tag to the end tag 
+alt tag specifies alternate text for an area if the image cannot be displayed
