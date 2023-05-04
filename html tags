@@ -24,4 +24,6 @@ style attribute - used to add styles to an element such as color, font, size etc
 lang attribute - you should always include the lang attribute inside the <html> tag , to declare the language of the webpage.
 title attribute - defines some extra information about an element 
 The value of the title attribute will be displayed as a tooltip when you mouse over the element.
-<hr> tag - defines a thematic break in html page 
+<hr> tag - defines a thematic break in html page , it has no end tag 
+
+html <pre> element defines preformatted text.
