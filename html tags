@@ -1,4 +1,5 @@
-<!DOCTYPE html> declaration defines that this document is an HTML5 document 
+<!DOCTYPE html> declaration defines that this document is an HTML5 document , helps browsers to display the webpages correctly 
+It must only appear once at the top of the page (before any HTML tags).
 <html> element is the root element of an HTML page 
 <head> element contains meta information about the HTML page 
 <title> element specifies a title for the html page 
