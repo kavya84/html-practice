@@ -8,4 +8,17 @@ It must only appear once at the top of the page (before any HTML tags).
 <p>element defines a paragraph
 
 Html element is everything from the start tag to the end tag 
-alt tag specifies alternate text for an area if the image cannot be displayed
+Html element is a root element and it has the start tag <html> and an end tag </html>. Then, inside the html element there is a <body> element 
+<body>
+<h1> My first heading </h1>
+<p> My first paragraph. </p>
+</body>
+
+alt tag - specifies alternate text for an area if the image cannot be displayed
+<br> tag - defines a line break and is an empty element without a closing tag
+<a> tag - defines the hyperlink 
+href attribute specifies the url of the page the link goes to 
+<img> tag - used to embed an image in an html page 
+src attribute - specifies the path to the image to be displayed 
+style attribute - used to add styles to an element such as color, font, size etc.
+lang attribute - you should always include the lang attribute inside the <html> tag , to declare the language of the webpage.
