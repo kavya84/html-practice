@@ -1,0 +1,9 @@
+Setting the style of an html element, can be done with the style attribute 
+HTML style attribute has the following syntax : 
+<tagname style = "property:value;">
+
+The property is a CSS property.The value is a CSS value.
+
+font-family property defines the font to be used for an HTML element.
+font-size property defines the text size of an HTML element.
+CSS text-align property defines the horizontal text alignment for an HTML element.
