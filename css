@@ -3,3 +3,18 @@ CSS saves a lot of time and work
 It can control the layout of multiple web pages all at once
 With CSS, you can control the color, size, font, size of the text, spacing between elements, how elements are positioned and laid out,what background images 
 or background colors are to be used, different displays for different devices and screen sizes and much more.
+
+External CSS:
+External style sheet is used to define the style for many HTML pages.
+To use an external style sheet, add a link to it in the <head> section of each HTML page
+<link rel="stylesheet" href="styles.css">
+
+CSS Padding property defines a padding space between the text and the border.
+Padding : space between the text and the border 
+
+CSS Margin property defines a margin(space) outside the border.
+
+Link to External CSS:
+External style sheets can be referenced with a full URL or with a path relative to the current page.
+
+<link rel="stylesheet" href="https://www.w3schools.com/html/styles.css">
