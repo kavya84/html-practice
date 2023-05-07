@@ -15,3 +15,7 @@ HTML <a> tag defines a hyperlink
 </html>
 
 Use target= "_blank" to open the linked document in a new browser window or tab
+
+Jumping to a particular thing:
+<p> <a href="#C4"> Jump to Chapter 4</a> </p>
+<a href="html_demo.html#C4"> Jump to Chapter 4</a></p>
