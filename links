@@ -1,5 +1,5 @@
 links destination is specified in the href attribute 
-
+HTML <a> tag defines a hyperlink
 
 
 
@@ -13,3 +13,5 @@ links destination is specified in the href attribute
 
 </body>
 </html>
+
+Use target= "_blank" to open the linked document in a new browser window or tab
