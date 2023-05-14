@@ -1,1 +1,4 @@
 Colspan attribute : when we use this,we can get a header that spans over 2 or more columns
+Padding: Cell padding is the space between the cell edges and cell content
+To add padding on table cells, use css padding property
+To add the padding only above the content, use the padding-top property
