@@ -7,3 +7,4 @@ To add padding on table cells, use css padding property
 To add the padding only above the content, use the padding-top property
 To change the space between table cells, use the CSS border-spacing property
 Colgroup element is used to style specific columns of a table
+You can hide columns with the visibility: collapse property.
