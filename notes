@@ -11,3 +11,6 @@ You can hide columns with the visibility: collapse property.
 
 div element is often used as a container for other HTML elements.
 div element has no required attributes but style,class and id are common.
+
+span element is an inline container used to mark up a part of a text or a part of a document.
+span element has no required attributes but style,class and id are common.
