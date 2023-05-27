@@ -1,0 +1,9 @@
+UTF-8 characters : 
+A-65
+B-66
+C-67
+The <meta charset="UTF-8"> element defines the character set.
+
+The characters A, B, and C, are displayed by the numbers 65, 66, and 67.
+To let the browser understand that you are displaying a character, you must start the entity number 
+with &# and end it with ; (semicolon).
